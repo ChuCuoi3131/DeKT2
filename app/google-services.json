@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337571237061",
+    "project_id": "dekt2-1530b",
+    "storage_bucket": "dekt2-1530b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337571237061:android:78ac8f7f41ac1170fbf4ac",
+        "android_client_info": {
+          "package_name": "com.example.dekt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5CqxMAPfuDmOmfEEQJXs2XjJRoRtl5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
